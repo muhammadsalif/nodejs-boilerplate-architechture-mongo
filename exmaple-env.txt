@@ -1,0 +1,9 @@
+NODE_ENV=your environment 
+PORT=port to run server on
+MONGODB_URI=mongo db uri || connection string
+
+# JWT
+AUTH_JWT_SECRET=jwt token secret
+SALT_ROUNDS=10
+EXPIRES_IN=time 
+COOKIE_EXPIRES_IN=time
